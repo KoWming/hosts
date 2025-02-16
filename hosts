@@ -3,128 +3,128 @@
 # CDN Url: https://gcore.jsdelivr.net/gh/wjz304/hosts@main/hosts
 # CDN Url: https://cdn.staticaly.com/gh/wjz304/hosts/main/hosts
 # DNS Servers: Shenzhen Sunrise Technology Co. Ltd
-# Update at: 2025-02-16 16:04:25
+# Update at: 2025-02-16 16:09:16
 # GitHub Hosts Start
-185.199.108.153 github.io
+185.199.109.153 github.io
                                         github.io
 20.205.243.166  github.com
                                         github.com
 192.0.66.2      github.blog
                                         github.blog
-140.82.112.17   github.community
+140.82.113.18   github.community
                                         github.community
 20.205.243.168  api.github.com
                                         api.github.com
-140.82.112.21   api.githubcopilot.com
+140.82.114.21   api.githubcopilot.com
                                         api.githubcopilot.com
 20.205.243.166  gist.github.com
                                         gist.github.com
 20.205.243.165  codeload.github.com
                                         codeload.github.com
-140.82.112.21   central.github.com
+140.82.114.21   central.github.com
                                         central.github.com
-140.82.112.21   collector.github.com
+140.82.114.21   collector.github.com
                                         collector.github.com
-185.199.110.133 raw.github.com
+185.199.111.133 raw.github.com
 2606:50c0:8000::154                     raw.github.com
 185.199.110.154 docs.github.com
 2606:50c0:8001::154                     docs.github.com
                 assets-cdn.github.com
                                         assets-cdn.github.com
 185.199.111.133 raw.githubusercontent.com
-2606:50c0:8000::154                     raw.githubusercontent.com
-185.199.110.133 camo.githubusercontent.com
+2606:50c0:8003::154                     raw.githubusercontent.com
+185.199.108.133 camo.githubusercontent.com
                                         camo.githubusercontent.com
 185.199.109.133 cloud.githubusercontent.com
                                         cloud.githubusercontent.com
-185.199.110.133 media.githubusercontent.com
-2606:50c0:8003::154                     media.githubusercontent.com
+185.199.111.133 media.githubusercontent.com
+2606:50c0:8002::154                     media.githubusercontent.com
 185.199.108.133 desktop.githubusercontent.com
                                         desktop.githubusercontent.com
-185.199.108.133 objects.githubusercontent.com
+185.199.109.133 objects.githubusercontent.com
                                         objects.githubusercontent.com
-185.199.108.133 favicons.githubusercontent.com
+185.199.111.133 favicons.githubusercontent.com
                                         favicons.githubusercontent.com
-185.199.109.133 avatars5.githubusercontent.com
+185.199.111.133 avatars5.githubusercontent.com
                                         avatars5.githubusercontent.com
-185.199.110.133 avatars4.githubusercontent.com
+185.199.108.133 avatars4.githubusercontent.com
                                         avatars4.githubusercontent.com
-185.199.111.133 avatars3.githubusercontent.com
+185.199.109.133 avatars3.githubusercontent.com
                                         avatars3.githubusercontent.com
-185.199.108.133 avatars2.githubusercontent.com
+185.199.109.133 avatars2.githubusercontent.com
                                         avatars2.githubusercontent.com
-185.199.109.133 avatars1.githubusercontent.com
+185.199.108.133 avatars1.githubusercontent.com
                                         avatars1.githubusercontent.com
-185.199.110.133 avatars0.githubusercontent.com
+185.199.111.133 avatars0.githubusercontent.com
                                         avatars0.githubusercontent.com
-185.199.110.133 avatars.githubusercontent.com
-2606:50c0:8002::154                     avatars.githubusercontent.com
-185.199.109.133 user-images.githubusercontent.com
-2606:50c0:8001::154                     user-images.githubusercontent.com
+185.199.108.133 avatars.githubusercontent.com
+2606:50c0:8001::154                     avatars.githubusercontent.com
+185.199.110.133 user-images.githubusercontent.com
+2606:50c0:8002::154                     user-images.githubusercontent.com
 52.175.140.176  copilot-proxy.githubusercontent.com
                                         copilot-proxy.githubusercontent.com
-185.199.109.154 github-releases.githubusercontent.com
-2606:50c0:8001::154                     github-releases.githubusercontent.com
+185.199.111.154 github-releases.githubusercontent.com
+2606:50c0:8000::154                     github-releases.githubusercontent.com
 13.107.42.16    pipelines.actions.githubusercontent.com
 2620:1ec:21::16                         pipelines.actions.githubusercontent.com
 20.246.184.240  pipelinesghubeus7.actions.githubusercontent.com
                                         pipelinesghubeus7.actions.githubusercontent.com
-185.199.108.153 githubstatus.com
+185.199.110.153 githubstatus.com
                                         githubstatus.com
-140.82.112.21   collector.githubapp.com
+140.82.114.21   collector.githubapp.com
                                         collector.githubapp.com
-185.199.111.154 github.githubassets.com
+185.199.109.154 github.githubassets.com
                                         github.githubassets.com
 185.199.109.153 analytics.githubassets.com
-2606:50c0:8000::153                     analytics.githubassets.com
-185.199.109.133 github.map.fastly.net
+2606:50c0:8002::153                     analytics.githubassets.com
+185.199.110.133 github.map.fastly.net
                                         github.map.fastly.net
 151.101.77.194  github.global.ssl.fastly.net
                                         github.global.ssl.fastly.net
-3.5.20.158      github-cloud.s3.amazonaws.com
+3.5.28.47       github-cloud.s3.amazonaws.com
                                         github-cloud.s3.amazonaws.com
-3.5.24.150      github-com.s3.amazonaws.com
+54.231.223.25   github-com.s3.amazonaws.com
                                         github-com.s3.amazonaws.com
-52.216.43.129   github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.28.47       github-production-release-asset-2e65be.s3.amazonaws.com
                                         github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.120.9    github-production-user-asset-6210df.s3.amazonaws.com
+54.231.223.25   github-production-user-asset-6210df.s3.amazonaws.com
                                         github-production-user-asset-6210df.s3.amazonaws.com
-16.15.184.87    github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.4.100    github-production-repository-file-5c1aeb.s3.amazonaws.com
                                         github-production-repository-file-5c1aeb.s3.amazonaws.com
 # GitHub Hosts End
 # Docker Hosts Start
 3.94.224.37     registry.hub.docker.com
-2600:1f18:2148:bc00:5cac:48a0:7f88:7266 registry.hub.docker.com
-54.156.14.194   hub.docker.com
+2600:1f18:2148:bc02:22:27bd:19a8:870c   registry.hub.docker.com
+100.29.167.200  hub.docker.com
 2600:1f18:2148:bc02:9528:bc49:346f:402c hub.docker.com
 98.85.153.80    index.docker.io
-2600:1f18:2148:bc00:5cac:48a0:7f88:7266 index.docker.io
+2600:1f18:2148:bc02:22:27bd:19a8:870c   index.docker.io
 20.205.243.164  ghcr.io
                                         ghcr.io
 64.233.187.82   gcr.io
 2404:6800:4008:c05::52                  gcr.io
 142.251.170.82  k8s.gcr.io
 2404:6800:4008:c19::52                  k8s.gcr.io
-35.169.70.131   quay.io
-2600:1f18:483:cf00:a849:5cd:cd5e:35e4   quay.io
+3.226.123.8     quay.io
+2600:1f18:483:cf02:2380:e036:7f50:9a03  quay.io
 # Docker Hosts End
 # TMM Hosts Start
-3.160.150.117   themoviedb.org
-2600:9000:275b:800:e:5373:440:93a1      themoviedb.org
-3.160.150.117   www.themoviedb.org
-2600:9000:275b:a600:e:5373:440:93a1     www.themoviedb.org
+3.160.150.33    themoviedb.org
+2600:9000:275b:a00:e:5373:440:93a1      themoviedb.org
+3.160.150.33    www.themoviedb.org
+2600:9000:275b:4e00:e:5373:440:93a1     www.themoviedb.org
 99.86.4.35      api.themoviedb.org
-2600:9000:2057:4200:c:174a:c400:93a1    api.themoviedb.org
+2600:9000:2057:c600:c:174a:c400:93a1    api.themoviedb.org
 3.167.227.33    tmdb.org
-2600:9000:27e6:da00:10:db24:6940:93a1   tmdb.org
+2600:9000:27e6:b400:10:db24:6940:93a1   tmdb.org
 18.66.102.56    api.tmdb.org
-2600:9000:223c:7a00:10:fb02:4000:93a1   api.tmdb.org
-143.244.50.210  image.tmdb.org
-2400:52e0:1a01::986:1                   image.tmdb.org
+2600:9000:223c:ea00:10:fb02:4000:93a1   api.tmdb.org
+143.244.50.212  image.tmdb.org
+2400:52e0:1a01::1002:1                  image.tmdb.org
 104.21.14.73    opensubtitles.org
 2606:4700:3036::ac43:9e2c               opensubtitles.org
 104.21.14.73    www.opensubtitles.org
-2606:4700:3036::ac43:9e2c               www.opensubtitles.org
+2606:4700:3030::6815:e49                www.opensubtitles.org
 104.21.14.73    api.opensubtitles.org
 2606:4700:3030::6815:e49                api.opensubtitles.org
 158.69.0.103    assets.fanart.tv
