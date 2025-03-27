@@ -6,7 +6,7 @@
 hosts Url:   
 Raw Url: https://raw.githubusercontent.com/KoWming/hosts/main/hosts  
 CDN Url: https://gcore.jsdelivr.net/gh/KoWming/hosts@main/hosts    (推荐)  
-CDN Url: https://cdn.staticaly.com/gh/KoWming/hosts/main/hosts    (推荐)  
+CDN Url: https://cdn.staticaly.com/gh/KoWming/hosts/main/hosts
 
 ## Used  
 Windows/MacOS:  
